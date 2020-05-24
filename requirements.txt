@@ -1,4 +1,4 @@
-Django==1.6.7
+Django==3.1
 djangorestframework
 
 # markdown support for the browsable API
